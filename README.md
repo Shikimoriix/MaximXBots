@@ -2,6 +2,8 @@
 
 <div align="center">
 
+![1](https://te.legra.ph/file/0c13eb00aaba21dd2f541.jpg)
+
 🍂 You're So Far Away 🍃
 
 [![Telegram](https://img.shields.io/badge/Group-%232C3454?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/MaximXGroup) [![Telegram](https://img.shields.io/badge/Channel-%232C3454?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/MaximXChannels)
