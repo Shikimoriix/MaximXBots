@@ -1,5 +1,3 @@
-<h1 div align="center"> 𝐌𝐚𝐱𝐢𝐦 𝐗 𝐁𝐨𝐭𝐬</h1>
-
 <h2 align="center">
     ─「 𝐒𝐮𝐩𝐩𝐨𝐫𝐭 & 𝐔𝐩𝐝𝐚𝐭𝐞𝐬 」─
 </h2>
