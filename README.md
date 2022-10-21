@@ -4,6 +4,9 @@
 
 <div align="center">
 
+<p align="center"><a href="https://github.com/AL3X-Github"><img alt="Website" src="https://img.shields.io/badge/ㅤPowered By I𝗓υɱi 和泉ㅤ-blue"></a></p>
+
+
 ![Cover](https://te.legra.ph/file/601cfb397a19f503c9265.jpg)
 
 </div>
