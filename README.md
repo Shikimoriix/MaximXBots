@@ -1,5 +1,5 @@
 <h2 align="center">
-    ─「 𝐒𝐮𝐩𝐩𝐨𝐫𝐭 & 𝐔𝐩𝐝𝐚𝐭𝐞𝐬 」─
+    ─「 Support & Updates  」─
 </h2>
 
 <div align="center">
@@ -18,8 +18,10 @@
 
 [![ForTheBadge built-with-love](http://ForTheBadge.com/images/badges/built-with-love.svg)](https://github.com/AL3X-Github)
 
+<h6>
 
-© Copyright Holder : [Maxim X Bots](https://telegram.dog/MaximXBots)
+**Copyright 2022 :** [**Iᴢυɱi 和泉**](https://telegram.dog/MaximXRobot) 
 
+</h6>
 </div>
 
