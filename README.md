@@ -4,9 +4,6 @@
 
 <div align="center">
 
-<p align="center"><a href="https://github.com/AL3X-Github"><img alt="Website" src="https://img.shields.io/badge/ㅤPowered By I𝗓υɱi 和泉ㅤ-blue"></a></p>
-
-
 ![Support Cover](https://github.com/AL3X-Github/Resources/blob/main/Photos/Support.png)
 
 </div>
